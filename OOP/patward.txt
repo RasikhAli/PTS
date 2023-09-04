@@ -1,0 +1,33 @@
+2
+Name : RAsikh
+Address : 23232
+Contact Number : 232323
+Age : 15
+Gender : M
+Blood Group : O-
+Any disease or illness : yes
+Date of Registration : 13/14/2022
+Doc Assigned : not assigned
+Ward No. : 34
+3
+Name : Rasikh
+Address : 424242
+Contact Number : 424242
+Age : 18
+Gender : M
+Blood Group : O+
+Any disease or illness : yes
+Date of Registration : 7/27/2020
+Doc Assigned : not assigned
+Ward No. : 13
+5
+Name : Rasikh
+Address : 444
+Contact Number : 4242
+Age : 18
+Gender : M
+Blood Group : O-
+Any disease or illness : yes
+Date of Registration : 7/27/2020
+Doc Assigned : not assigned
+Ward No. : 23

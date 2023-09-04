@@ -1,0 +1,153 @@
+
+********************************************************************
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+Patient's Location : 
+Assigned room : 057 
+
+********************************************************************
+
+
+********************************************************************
+2
+Name : s
+Address : gs
+Contact Number : g
+Age : sg
+Gender : s
+Blood Group : gs
+Any disease or illness : gs
+Date of Registration : y
+Doc Assigned : not assigned
+Patient's Location : 
+Assigned room : 056 
+
+********************************************************************
+
+
+********************************************************************
+3
+Name : rs
+Address : g
+Contact Number : s
+Age : gs
+Gender : ag
+Blood Group : sag
+Any disease or illness : s
+Date of Registration : sg
+Doc Assigned : not assigned
+Patient's Location : 
+Assigned room : 059 
+
+********************************************************************
+
+
+********************************************************************
+23
+Name : dbghjsdf
+Address : 78hgwdjh
+Contact Number : 354456
+Age : 23
+Gender : dgfdg
+Blood Group : gdfg
+Any disease or illness : yes
+Date of Registration : 12dcs
+Doc Assigned : not assigned
+Patient's Location : 
+Patient Assigned in Emergency room
+
+********************************************************************
+
+
+********************************************************************
+77
+Name : dsaf
+Address : dsf
+Contact Number : dsfa
+Age : dsf
+Gender : dsfa
+Blood Group : fda
+Any disease or illness : dsaf
+Date of Registration : fdas
+Doc Assigned : not assigned
+Patient's Location : 
+Assigned room : 063 
+
+********************************************************************
+
+
+********************************************************************
+76
+Name : dsa
+Address : ads
+Contact Number : dsa
+Age : asd
+Gender : ads
+Blood Group : asd
+Any disease or illness : sad
+Date of Registration : sad
+Doc Assigned : not assigned
+Patient's Location : 
+Assigned room : 066 
+
+********************************************************************
+
+
+********************************************************************
+12
+Name : rasikh
+Address : 444
+Contact Number : 0312
+Age : 29
+Gender : male
+Blood Group : o-
+Any disease or illness : no
+Date of Registration : 4/22/2020
+Doc Assigned : not assigned
+Patient's Location : 
+Assigned room : 057 
+
+********************************************************************
+
+
+********************************************************************
+14
+Name : rasikh
+Address : ss
+Contact Number : gg
+Age : gs
+Gender : gs
+Blood Group : ok
+Any disease or illness : no
+Date of Registration : 12
+Doc Assigned : not assigned
+Patient's Location : 
+Assigned room : 059 
+
+********************************************************************
+
+
+********************************************************************
+11
+Name : rasikh
+Address : sgs
+Contact Number : gg
+Age : hh
+Gender : 12
+Blood Group : as
+Any disease or illness : no
+Date of Registration : 22
+Doc Assigned : not assigned
+Patient's Location : 
+Assigned room : 061 
+
+********************************************************************
+

@@ -1,0 +1,18 @@
+                 --------------------------------------------------------        
+                              Welcome To Superior Hospital                       
+                 --------------------------------------------------------        
+                      Please Select an option from the given options             
+                 --------------------------------------------------------        
+                      1 .      Admit a Patient                                   
+                      2 .      Update Location of Patient                  		 
+                      3 .      Info About Existing All Patients                  
+                      4 .      Info About A Specific Patient                     
+                      5 .      Info About A Specific Patient if Specific doctor is assigned 
+                      6 .      STAFF WORK                                        
+                      7 .      Opening records from different files              
+                      8 .      Go Back to Main Screen                            
+                      9 .      Termiate Program                                  
+                                                                                 
+                               Or press any key to exit the program              
+                                                                                 
+                               Your Selection is ? :

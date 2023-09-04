@@ -1,0 +1,68 @@
+
+********************************************************************
+1
+Name : Rasikh
+Address : 4444
+Contact Number : 0323232
+Age : 17
+Gender : M
+Blood Group : O+
+Any disease or illness : no
+Date of Registration : 15/14/2019
+Doc Assigned : not assigned
+Patient's Location : 
+Assigned room : 056 
+
+********************************************************************
+
+
+********************************************************************
+2
+Name : RAsikh
+Address : 23232
+Contact Number : 232323
+Age : 15
+Gender : M
+Blood Group : O-
+Any disease or illness : yes
+Date of Registration : 13/14/2022
+Doc Assigned : not assigned
+Patient's Location : 
+Patient Assigned in Emergency room
+
+********************************************************************
+
+
+********************************************************************
+3
+Name : Rasikh
+Address : 424242
+Contact Number : 424242
+Age : 18
+Gender : M
+Blood Group : O+
+Any disease or illness : yes
+Date of Registration : 7/27/2020
+Doc Assigned : not assigned
+Patient's Location : 
+Patient Assigned in Emergency room
+
+********************************************************************
+
+
+********************************************************************
+5
+Name : Rasikh
+Address : 444
+Contact Number : 4242
+Age : 18
+Gender : M
+Blood Group : O-
+Any disease or illness : yes
+Date of Registration : 7/27/2020
+Doc Assigned : not assigned
+Patient's Location : 
+Patient Assigned in Emergency room
+
+********************************************************************
+

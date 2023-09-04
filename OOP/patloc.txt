@@ -1,0 +1,69 @@
+1
+Name : Rasikh
+Address : 4444
+Contact Number : 0323232
+Age : 17
+Gender : M
+Blood Group : O+
+Any disease or illness : no
+Date of Registration : 15/14/2019
+Doc Assigned : not assigned
+Patient's Location & Time : 
+	 Entered At      : 19:50:14
+	 At Reception At : 19:50:15
+1
+Name : Rasikh
+Address : 4444
+Contact Number : 0323232
+Age : 17
+Gender : M
+Blood Group : O+
+Any disease or illness : no
+Date of Registration : 15/14/2019
+Doc Assigned : not assigned
+Patient's Location & Time : 
+	 Entered At      : 19:50:26
+	 At Reception At : 19:50:27
+Assigned room : 056   At : 19:50:29
+1
+Name : Rasikh
+Address : 4444
+Contact Number : 0323232
+Age : 17
+Gender : M
+Blood Group : O+
+Any disease or illness : no
+Date of Registration : 15/14/2019
+Doc Assigned : not assigned
+Patient's Location & Time : 
+	 Entered At      : 19:50:37
+	 At Reception At : 19:50:39
+	 In Operation Theater At : 19:50:39
+3
+Name : Rasikh
+Address : 424242
+Contact Number : 424242
+Age : 18
+Gender : M
+Blood Group : O+
+Any disease or illness : yes
+Date of Registration : 7/27/2020
+Doc Assigned : not assigned
+Patient's Location & Time : 
+	 Entered At      : 19:55:39
+	 At Reception At : 19:55:40
+	 In Operation Theater At : 19:55:42
+5
+Name : Rasikh
+Address : 444
+Contact Number : 4242
+Age : 18
+Gender : M
+Blood Group : O-
+Any disease or illness : yes
+Date of Registration : 7/27/2020
+Doc Assigned : not assigned
+Patient's Location & Time : 
+	 Entered At      : 20:43:8
+	 At Reception At : 20:43:10
+	 In Operation Theater At : 20:43:11

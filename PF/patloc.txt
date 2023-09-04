@@ -1,0 +1,183 @@
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+Patient's Location & Time : 
+	 Entered At      : 15:37:27
+	 At Reception At : 15:37:31
+12
+Name : rasikh
+Address : 444
+Contact Number : 0312
+Age : 29
+Gender : male
+Blood Group : o-
+Any disease or illness : no
+Date of Registration : 4/22/2020
+Doc Assigned : not assigned
+Patient's Location & Time : 
+	 Entered At      : 11:26:6
+	 At Reception At : 11:26:11
+14
+Name : rasikh
+Address : ss
+Contact Number : gg
+Age : gs
+Gender : gs
+Blood Group : ok
+Any disease or illness : no
+Date of Registration : 12
+Doc Assigned : not assigned
+Patient's Location & Time : 
+	 Entered At      : 11:29:0
+	 At Reception At : 11:29:1
+11
+Name : rasikh
+Address : sgs
+Contact Number : gg
+Age : hh
+Gender : 12
+Blood Group : as
+Any disease or illness : no
+Date of Registration : 22
+Doc Assigned : not assigned
+Patient's Location & Time : 
+	 Entered At      : 11:50:1
+	 At Reception At : 11:50:2
+	 In Operation Theater At : 11:50:3
+2
+Name : s
+Address : gs
+Contact Number : g
+Age : sg
+Gender : s
+Blood Group : gs
+Any disease or illness : gs
+Date of Registration : y
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+2
+Name : s
+Address : gs
+Contact Number : g
+Age : sg
+Gender : s
+Blood Group : gs
+Any disease or illness : gs
+Date of Registration : y
+Doc Assigned : not assigned
+2
+Name : s
+Address : gs
+Contact Number : g
+Age : sg
+Gender : s
+Blood Group : gs
+Any disease or illness : gs
+Date of Registration : y
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
+1
+Name : RAsikh
+Address : s
+Contact Number : gs
+Age : g
+Gender : sg
+Blood Group : hg
+Any disease or illness : no
+Date of Registration : 3/9/2020
+Doc Assigned : not assigned
